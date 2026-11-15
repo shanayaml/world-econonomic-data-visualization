@@ -2,3 +2,5 @@ pandas
 numpy
 plotly
 notebook
+dash
+jupyter-server-proxy
