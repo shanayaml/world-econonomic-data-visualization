@@ -1,7 +1,6 @@
 # World Economic Data Visualization
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shanayaml/world-econonomic-data-visualization/main?urlpath=tree/FinalProject.ipynb)
-
-Exploratory data analysis and visualization of global economic indicators using Python, with a focus on geographic patterns across countries.
+[](https://world-economic-data-visualization.onrender.com/)
+](https://world-economic-data-visualization.onrender.com/)Exploratory data analysis and visualization of global economic indicators using Python, with a focus on geographic patterns across countries.
 
 ## Overview
 
