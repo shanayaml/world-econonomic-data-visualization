@@ -1,6 +1,7 @@
 # World Economic Data Visualization
-[](https://world-economic-data-visualization.onrender.com/)
-](https://world-economic-data-visualization.onrender.com/)Exploratory data analysis and visualization of global economic indicators using Python, with a focus on geographic patterns across countries.
+🌐 Open Interactive Dashboard]([https://world-economic-data-visualization.onrender.com/](https://world-economic-data-visualization.onrender.com))
+
+Exploratory data analysis and visualization of global economic indicators using Python, with a focus on geographic patterns across countries.
 
 ## Overview
 
