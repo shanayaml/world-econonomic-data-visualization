@@ -8,14 +8,6 @@ An interactive dashboard built with Python, Plotly and Dash to explore and visua
 
 Explore the interactive visualizations directly in your browser.
 
-## 🛠️ Technologies
-
-- Python
-- Dash
-- Plotly
-- Pandas
-- Render
-
 ## Overview
 
 This project analyzes economic data from different countries and represents it through visualizations, including choropleth maps using GeoJSON.
