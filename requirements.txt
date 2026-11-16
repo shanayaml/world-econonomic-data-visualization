@@ -4,3 +4,5 @@ plotly
 notebook
 dash
 jupyter-server-proxy
+gunicorn>=22,<24
+
