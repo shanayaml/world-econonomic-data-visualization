@@ -1,7 +1,20 @@
 # World Economic Data Visualization
-🌐 Open Interactive Dashboard](https://world-economic-data-visualization.onrender.com)
 
-Exploratory data analysis and visualization of global economic indicators using Python, with a focus on geographic patterns across countries.
+An interactive dashboard built with Python, Plotly and Dash to explore and visualize global economic data.
+
+## Live Dashboard
+
+[**🌐 Open Interactive Dashboard**](https://world-economic-data-visualization.onrender.com)
+
+Explore the interactive visualizations directly in your browser.
+
+## 🛠️ Technologies
+
+- Python
+- Dash
+- Plotly
+- Pandas
+- Render
 
 ## Overview
 
